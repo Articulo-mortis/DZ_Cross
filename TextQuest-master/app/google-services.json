@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427272947727",
+    "firebase_url": "https://strangerthings-2dd8b.firebaseio.com",
+    "project_id": "strangerthings-2dd8b",
+    "storage_bucket": "strangerthings-2dd8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427272947727:android:250b7a59dd46bfd6bf3b7a",
+        "android_client_info": {
+          "package_name": "me.discgold.strangerthings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427272947727-rbl8q995mbm61qomqqb0mkde6sspidrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.discgold.strangerthings",
+            "certificate_hash": "94bacf08a3a4ae92fafd120196a628126cf5f763"
+          }
+        },
+        {
+          "client_id": "427272947727-26261dmsal8uaal0qcqnob9k57nj2l1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_0ZmHnmDuJmTXzxk2mwSGAC2ifYHHHes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427272947727-26261dmsal8uaal0qcqnob9k57nj2l1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
